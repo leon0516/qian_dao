@@ -24,10 +24,18 @@
 **系统框架示意图：**
 ![系统示意图](http://ww4.sinaimg.cn/large/005yyi5Jjw1en7ccjlcdlj30q80i6tam.jpg)
 
+**相关技术**
+- [Workerman](https://github.com/walkor/workerman) 服务器端框架　感谢[@Walkor](https://github.com/walkor)(此框架给我省了好多的力气，这也是我开源此项目的原因，并且以后更多的项目也要开源)
+
+
+----------
+
 
 **关于我**
 
 我的博客
+
+
 [Leon's Blog](http://leon.wxitsky.com)
 
 [Leon's Lofter](http://leon-0516.lofter.com)
