@@ -1,8 +1,8 @@
-门禁／签到系统
+新构架的门禁项目在这[The Door Access control](https://github.com/leon0516/The-Door-Access-control)
 ==========
 
 
-###新构架的门禁项目在这[The Door Access control](https://github.com/leon0516/The-Door-Access-control)###
+#门禁／签到系统#
 
 
 
@@ -62,11 +62,6 @@
 
 - 欢迎大家来一起完善项目，增强其安全性和实用性。
 
-**关于我**
-
-我的博客
 
 
-[Leon's Blog](http://leon.wxitsky.com)
 
-[Leon's Lofter](http://leon-0516.lofter.com)
