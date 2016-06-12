@@ -1,5 +1,12 @@
 门禁／签到系统
 ==========
+
+
+###新构架的门禁项目在这[The Door Access control](https://github.com/leon0516/The-Door-Access-control)###
+
+
+
+
 ###此系统是为我学校的创新实验室做的一个门禁系统###
 
 **说在前面：**
